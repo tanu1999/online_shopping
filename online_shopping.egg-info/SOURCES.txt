@@ -1,0 +1,7 @@
+README.md
+setup.py
+online_shopping.egg-info/PKG-INFO
+online_shopping.egg-info/SOURCES.txt
+online_shopping.egg-info/dependency_links.txt
+online_shopping.egg-info/requires.txt
+online_shopping.egg-info/top_level.txt
